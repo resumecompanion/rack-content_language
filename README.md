@@ -1,4 +1,4 @@
-# Rack::NoindexHttp
+# Rack::ContentLanguage
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'rack-noindex_http'
+    gem 'rack-content_language'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rack-noindex_http
+    $ gem install rack-content_language
 
 ## Usage
 
