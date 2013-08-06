@@ -1,0 +1,5 @@
+module Rack
+  class ContentLanguage
+    VERSION = "0.0.1"
+  end
+end
